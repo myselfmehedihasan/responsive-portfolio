@@ -87,6 +87,13 @@ Open your browser at `http://localhost:3000` to view the app.
 
 _Add screenshots here showing desktop and mobile views._
 
+![Desktop Homepage screenshot](/screen%20shots/desktopView.png)
+
+
+![Mobile Homepage screenshot](/screen%20shots/MobileView.png)
+
+
+
 ---
 
 ## 🤝 Contributing
