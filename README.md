@@ -21,7 +21,7 @@ Absolutely! Here’s a polished and GitHub-friendly **README.md** for your proje
 
 ## 📁 Project Structure
 
-```
+```plaintext
 src/
 ├── Components/
 │   ├── About.jsx
